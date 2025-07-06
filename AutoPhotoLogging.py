@@ -1,8 +1,10 @@
 ### AutoPhotoLogging.py
 
+# RENAME FILES IN INT FORMAT WITH POWER RENAME (right click on all photos)
+
 # Set Working Directory to folder with photos
 import os
-path = r"C:\Users\might\Documents\Diva-Software-Project\testing" #r in front is for the back slashes
+path = r"C:\Users\might\Documents\Diva-Software-Project\2025-07-06_Rio-Grande\Photos" #r in front is for the back slashes
 city = ', Austin'
 os.chdir(path)
 
